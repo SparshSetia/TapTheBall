@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# v1.2.4 : 08-05-2018
+ 
+CACHE:
+# pages
+index.html
+ 
+# styles & scripts
+css/index.css
+js/index.js
+js/jquery.min.js
+js/popmotion.global.min.js
+js/sweetalert2.all.js
+js/Tone.min.js
+audio/Andreas_Theme.mp3
+audio/Miami_Nights_-_Extended_Theme.mp3
+audio/Jet_Fueled_Vixen.mp3
+
+# images
+BMC-btn-logo.svg
+favicon.ico
+favicon-16x16.png
